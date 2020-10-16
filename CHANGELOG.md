@@ -6,6 +6,7 @@
 
 - PR #599 Make the arena memory resource work better with the producer/consumer mode
 - PR #603 Always test both legacy and per-thread default stream
+- PR #XXX Pin cmake policies to cmake 3.17 version
 
 ## Bug Fixes
 
